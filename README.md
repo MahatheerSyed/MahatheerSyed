@@ -4,7 +4,7 @@
 
 🚀 Tech Stack:
 
-Frontend: HTML5, CSS3, JavaScript, React, Tailwind CSS
+<bold>Frontend:</bold> HTML5, CSS3, JavaScript, React, Tailwind CSS
 
 Backend: Java (Spring Boot), Python (Flask, Django), Node.js
 
